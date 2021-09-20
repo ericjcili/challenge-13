@@ -3,7 +3,7 @@ In this project, I modified the back-end code for E-commerce by setting up a dat
 
 ## Walkthrough Video
 
-https://github.com/ericjcili/challenge-13
+https://www.youtube.com/watch?v=pf80dy9XnTg
 
 ## User Story
 ```
